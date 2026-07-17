@@ -1,6 +1,6 @@
 ## About me ✨
 
-I'm a **MERN Stack Developer** focused on building web applications.  
+I'm a **Full Stack web developer  r** focused on building web applications.  
 ---
 ### 🧑‍💻 What I Do
 - Full-stack web development
