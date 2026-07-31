@@ -7,7 +7,7 @@ I'm a **Full Stack web developer  r** focused on building web applications.
 - REST API development
 - Backend architecture & logic
 - Modern UI development with React & Next.js
-- 
+
 ### 🛠 Tech Stack 
 **Frontend**
 <p>
