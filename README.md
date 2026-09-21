@@ -8,11 +8,11 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ### 🚀 What I Do
 
-- 🌐 Build modern full-stack web applications
-- ⚡ Develop secure REST APIs
-- 🏗️ Design scalable backend architectures
-- 🎨 Create responsive, accessible user interfaces
-- 📚 Continuously learn new technologies
+- Build modern full-stack web applications
+- Develop secure REST APIs
+- Design scalable backend architectures
+- Create responsive, accessible user interfaces
+- Continuously learn new technologies
 
 ---
 
@@ -45,7 +45,6 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 - 🐳 Docker & Containers
 - 🐧 Linux
 - 🏛️ System Design
-- ☁️ Cloud Computing (AWS)
 - 🔄 CI/CD
 - 🧪 Testing
 
@@ -54,7 +53,6 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 ## 🎯 2026 Goals
 
 - ✅ Master System Design
-- ✅ Learn Docker & Kubernetes
 - ✅ Build production-ready SaaS projects
 - ✅ Contribute to Open Source
 - ✅ Land a Full Stack Developer role
@@ -63,11 +61,10 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ## ⚡ Fun Facts
 
-- 💡 I love turning ideas into real products.
-- 🚀 Always learning something new.
-- 🎯 My goal is to become a Senior Full Stack Engineer.
-- ☕ Debugging with coffee is a lifestyle.
+-  I love turning ideas into real products.
+-  My goal is to become a Senior Full Stack Engineer.
+-  Debugging with coffee is a lifestyle.
 
 ---
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> **"First, solve the problem ." – John Johnson**
